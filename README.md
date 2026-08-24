@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/swamy-code/LEET-CODE/tree/master/0009-palindrome-number) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
