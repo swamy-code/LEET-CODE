@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
+## String
+|  |
+| ------- |
+| [3931-check-adjacent-digit-differences](https://github.com/swamy-code/LEET-CODE/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->
