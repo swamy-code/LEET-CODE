@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/swamy-code/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/swamy-code/LEET-CODE/tree/master/0509-fibonacci-number) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
+| [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/swamy-code/LEET-CODE/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
