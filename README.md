@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/swamy-code/LEET-CODE/tree/master/0175-combine-two-tables) |
+| [0627-swap-sex-of-employees](https://github.com/swamy-code/LEET-CODE/tree/master/0627-swap-sex-of-employees) |
 ## Math
 |  |
 | ------- |
