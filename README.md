@@ -50,17 +50,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/swamy-code/LEET-CODE/tree/master/0389-find-the-difference) |
 | [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/swamy-code/LEET-CODE/tree/master/0389-find-the-difference) |
 | [3931-check-adjacent-digit-differences](https://github.com/swamy-code/LEET-CODE/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/swamy-code/LEET-CODE/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/swamy-code/LEET-CODE/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/swamy-code/LEET-CODE/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/swamy-code/LEET-CODE/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
