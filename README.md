@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/swamy-code/LEET-CODE/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [2057-smallest-index-with-equal-value](https://github.com/swamy-code/LEET-CODE/tree/master/2057-smallest-index-with-equal-value) |
 <!---LeetCode Topics End-->
