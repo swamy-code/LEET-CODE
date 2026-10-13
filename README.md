@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swamy-code/LEET-CODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/swamy-code/LEET-CODE/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/swamy-code/LEET-CODE/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/swamy-code/LEET-CODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
 | [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
 ## Enumeration
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/swamy-code/LEET-CODE/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/swamy-code/LEET-CODE/tree/master/1688-count-of-matches-in-tournament) |
 ## Sorting
 |  |
 | ------- |
