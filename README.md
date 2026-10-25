@@ -17,17 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/swamy-code/LEET-CODE/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/swamy-code/LEET-CODE/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/swamy-code/LEET-CODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1952-three-divisors](https://github.com/swamy-code/LEET-CODE/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/swamy-code/LEET-CODE/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
 | [3945-digit-frequency-score](https://github.com/swamy-code/LEET-CODE/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/swamy-code/LEET-CODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/swamy-code/LEET-CODE/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/swamy-code/LEET-CODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/swamy-code/LEET-CODE/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2057-smallest-index-with-equal-value](https://github.com/swamy-code/LEET-CODE/tree/master/2057-smallest-index-with-equal-value) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/swamy-code/LEET-CODE/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/swamy-code/LEET-CODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
